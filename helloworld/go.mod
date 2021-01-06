@@ -1,4 +1,4 @@
-module github.com/renandeandradevaz/grpc-something-helloworld
+module github.com/renandeandradevaz/grpc-something/helloworld
 
 go 1.15
 
