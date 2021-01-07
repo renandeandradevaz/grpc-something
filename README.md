@@ -18,7 +18,12 @@ Run server:
 
 ```
 cd server
-go mod init
-go mod tidy
+go run main.go
+```
+
+Run client:
+
+```
+cd client
 go run main.go
 ```
